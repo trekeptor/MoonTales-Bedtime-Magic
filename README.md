@@ -1,8 +1,8 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://gray-progressive-unicorn-831.mypinata.cloud/ipfs/bafkreigk6d7g52ey7j77c4hh5lyq7vbcqbvoz5suqv2w6xmn5topibwr54" />
+<img src="https://gray-progressive-unicorn-831.mypinata.cloud/ipfs/bafkreigk6d7g52ey7j77c4hh5lyq7vbcqbvoz5suqv2w6xmn5topibwr54" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your app
 
 This contains everything you need to run your app locally.
 
