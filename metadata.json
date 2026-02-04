@@ -1,0 +1,7 @@
+{
+  "name": "MoonTales - Bedtime Magic",
+  "description": "A magical, gentle AI bedtime storyteller designed for children and families, featuring soothing voices and personalized adventures.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
